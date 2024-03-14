@@ -40,7 +40,8 @@ Additional Resources
 
 For more detailed information on using Snowflake with Python, refer to the official documentation:
 
-Snowflake Python API Overview
+[Snowflake Python API Overview](https://docs.snowflake.com/en/developer-guide/snowflake-python-api/snowflake-python-overview)
+
 
 Contributing
 
